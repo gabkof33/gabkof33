@@ -4,7 +4,7 @@
 
 
 
-![Gabriel Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=gabkof33&show_icons=true&theme=radical)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabkof33&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias meu dia a dia.
 
