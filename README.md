@@ -4,9 +4,7 @@
 
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabkof33&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-### Tecnologias meu dia a dia.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabkof33&show_icons=true&theme=radical&cache_seconds=1800)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display:inline_block"><br/>
 <img align="center" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
