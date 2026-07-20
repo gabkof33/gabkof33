@@ -4,13 +4,9 @@
 
 ### 📊 Estatísticas e Conquistas
 
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabkof33&theme=radical&column=7" alt="GitHub Troféus" /></a>
-</p>
+[![GitHub Troféus](https://github-profile-trophy.vercel.app/?username=gabkof33&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left">
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.vercel.app/?user=gabkof33&theme=radical" alt="GitHub Streak Stats" /></a>
-</p>
+[![GitHub Streak Stats](https://github-readme-streak-stats.vercel.app/?user=gabkof33&theme=radical)](https://github.com/denvercoder1/github-readme-streak-stats)
 
 ### 🛠️ Tecnologias e Ferramentas
 
