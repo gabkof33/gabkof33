@@ -1,3 +1,17 @@
+### Olá! Eu sou Gabriel Felipe ou melhor Gab's.⚡
+
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/gabriel-felipe-15a7a7239_versionamento-de-c%C3%B3digo-com-git-e-github-activity-7191425322171412480-8SiO?utm_source=share&utm_medium=member_ios)
+
+### 📊 Estatísticas e Conquistas
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabkof33&theme=radical&column=7" alt="GitHub Troféus" /></a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.vercel.app/?user=gabkof33&theme=radical" alt="GitHub Streak Stats" /></a>
+</p>
+
 ### 🛠️ Tecnologias e Ferramentas
 
 #### 💻 Desenvolvimento
