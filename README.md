@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/ DenverCoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabkof33&theme=radical" alt="GitHub Streak Stats" /></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img src="https://github-readme-streak-stats.vercel.app/?user=gabkof33&theme=radical" alt="GitHub Streak Stats" /></a>
 </p>
 
 ### 🛠️ Tecnologias e Ferramentas
